@@ -52,8 +52,21 @@ Este desafío ayuda a practicar el manejo de estructuras condicionales y bucles 
 
 Este desafío se centra en el uso de estructuras de repetición (`for` o `while`) para controlar el flujo del juego y gestionar los intentos del usuario.
 
-
 ## Desafío DayFive
+
+**Resumen del Reto:**
+
+En el desafío del DayFive, creamos un programa en JavaScript para gestionar una lista de compras. El programa permite al usuario agregar alimentos a la lista, especificar la categoría de cada ítem, y finalmente muestra la lista organizada por categorías.
+
+**Lo que se hizo:**
+
+1. **Agregar Alimentos:** El usuario puede agregar alimentos a la lista y asignarles una categoría (frutas, lácteos, congelados, dulces, otros).
+2. **Mostrar Lista:** Al finalizar, el programa muestra la lista de compras agrupada por categorías.
+3. **Interactividad:** Utiliza `prompt` para recoger entradas del usuario y `console.log` para mostrar los resultados.
+
+Este desafío ayuda a practicar el uso de arrays y objetos en JavaScript para gestionar y organizar datos de manera efectiva.
+
+
 ## Desafío DaySix
 ## Desafío DaySeven
 
