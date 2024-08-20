@@ -13,15 +13,17 @@ Hoy, mi tarea es comparar diferentes tipos de variables para entender cómo Java
 
 Estos ejemplos están diseñados para ilustrar las diferencias entre la comparación de igualdad (`==`) y la comparación estricta (`===`), y para demostrar cómo la conversión de tipos puede influir en los resultados.
 
-## Recomendaciones
-
-Para que esta experiencia sea lo más provechosa posible, he seguido algunas recomendaciones:
-
-- **Reserva una hora al día para resolver los desafíos:** Esto me ayuda a mantenerme enfocado y aprovechar al máximo el tiempo dedicado.
-- **Invita a alguien para que esta experiencia sea más divertida:** Aprender en compañía puede hacer el proceso más ameno y motivador.
-- **Comparte tus resultados usando la etiqueta #7DaysOfCode en GitHub y en redes sociales:** Esto me permite documentar mi progreso y recibir feedback de la comunidad.
 
 ## Desafío DayTwo
+
+**Reto:** Crear un programa en JavaScript que recoja el nombre, la edad y el lenguaje de programación del usuario, y muestre un mensaje personalizado. 
+
+**Funcionalidad:**
+1. Captura de nombre, edad y lenguaje de programación.
+2. Mensaje personalizado con la información del usuario.
+3. Pregunta opcional sobre el gusto por el lenguaje estudiado, con respuestas condicionales.
+
+
 ## Desafío DayThree
 ## Desafío DayFour
 ## Desafío DayFive
