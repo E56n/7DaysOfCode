@@ -41,6 +41,18 @@ Este desafío ayuda a practicar el manejo de estructuras condicionales y bucles 
 
 
 ## Desafío DayFour
+
+**Reto:** Crear un juego en JavaScript en el que el usuario intenta adivinar un número entre 0 y 10, con hasta 3 intentos para acertar. El programa debe proporcionar retroalimentación según la respuesta del usuario y, al final, revelar el número correcto si el usuario no adivina.
+
+**Funcionalidad:**
+1. **Número Predefinido:** Comienza con un número predefinido entre 0 y 10.
+2. **Intentos del Usuario:** Permite al usuario realizar hasta 3 intentos para adivinar el número.
+3. **Resultado Final:** Muestra un mensaje si el usuario acierta o revela el número si no acierta en los intentos disponibles.
+4. **Número Aleatorio (Extra):** Implementa una versión que elige el número aleatoriamente usando `Math.random()`.
+
+Este desafío se centra en el uso de estructuras de repetición (`for` o `while`) para controlar el flujo del juego y gestionar los intentos del usuario.
+
+
 ## Desafío DayFive
 ## Desafío DaySix
 ## Desafío DaySeven
