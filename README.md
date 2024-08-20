@@ -25,6 +25,21 @@ Estos ejemplos están diseñados para ilustrar las diferencias entre la comparac
 
 
 ## Desafío DayThree
+
+**Resumen del Reto:**
+
+En el desafío del DayThree, creamos un juego interactivo en JavaScript que permite al usuario tomar decisiones y explorar diferentes áreas de programación. El reto se enfocó en el uso de estructuras de control de flujo, como condicionales (`if` y `else`) y bucles (`while`), para crear una experiencia personalizada.
+
+**Lo que se hizo:**
+
+1. **Elección de Área:** El usuario elige entre Front-End o Back-End.
+2. **Elección de Tecnología:** Dependiendo de la elección anterior, el usuario selecciona una tecnología específica, como React, Vue, C#, o Java.
+3. **Especialización o Fullstack:** El usuario decide si quiere especializarse en el área elegida o convertirse en Fullstack.
+4. **Lista de Tecnologías:** El usuario puede agregar múltiples tecnologías a una lista, con comentarios sobre cada una.
+
+Este desafío ayuda a practicar el manejo de estructuras condicionales y bucles en JavaScript, proporcionando una base sólida para la creación de aplicaciones interactivas y dinámicas.
+
+
 ## Desafío DayFour
 ## Desafío DayFive
 ## Desafío DaySix
