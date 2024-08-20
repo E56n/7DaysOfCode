@@ -66,7 +66,7 @@ En el desafío del DayFive, creamos un programa en JavaScript para gestionar una
 
 Este desafío ayuda a practicar el uso de arrays y objetos en JavaScript para gestionar y organizar datos de manera efectiva.
 
-# Day Six: Gestión de Lista de Compras
+## Day Six: 
 
 **Reto:** Mejorar el programa de lista de compras para incluir la capacidad de eliminar elementos. Ahora, además de agregar alimentos, el usuario puede eliminarlos de la lista.
 
