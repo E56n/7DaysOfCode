@@ -59,3 +59,7 @@ agregarAlimento();
 # Descripción:
 
 Este programa permite al usuario gestionar una lista de compras categorizada en JavaScript. Los alimentos se pueden agregar a diferentes categorías, y el usuario puede ver un resumen final de la lista organizada por categorías. Utiliza prompt para la entrada del usuario y console.log para mostrar la lista de compras.
+
+## Autor
+
+**Eder Said Martinez Ramirez**

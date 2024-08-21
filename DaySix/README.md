@@ -118,3 +118,7 @@ function capitalizeFirstLetter(string) {
 // Llama a la función para comenzar a gestionar la lista de compras
 gestionarLista();
 ```
+
+## Autor
+
+**Eder Said Martinez Ramirez**

@@ -54,3 +54,7 @@ while (intentos > 0 && !acertado) {
 4. Entrada del Usuario: Usa prompt para capturar la entrada del usuario.
 5. Verificación: Compara el número ingresado con el número secreto y proporciona retroalimentación.
 6. Mensajes: Muestra mensajes adecuados según si el número es correcto o no, y revela el número secreto si se agotan los intentos.
+
+## Autor
+
+**Eder Said Martinez Ramirez**

@@ -62,3 +62,7 @@ El código también incluye casos de comparación entre diferentes tipos de vari
 El objetivo es entender mejor las diferencias entre la comparación de igualdad y la comparación estricta, y cómo la conversión implícita de tipos puede influir en los resultados de las comparaciones en JavaScript.
 
 Este código es útil para aprender cómo manejar y evitar problemas comunes relacionados con la comparación de tipos en JavaScript, mejorando así la precisión y confiabilidad del código al trabajar con diferentes tipos de datos.
+
+## Autor
+
+**Eder Said Martinez Ramirez**

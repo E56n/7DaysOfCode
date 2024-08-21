@@ -66,7 +66,7 @@ En el desafío del DayFive, creamos un programa en JavaScript para gestionar una
 
 Este desafío ayuda a practicar el uso de arrays y objetos en JavaScript para gestionar y organizar datos de manera efectiva.
 
-## Desafío DaySix: 
+## Desafío DaySix 
 
 **Reto:** Mejorar el programa de lista de compras para incluir la capacidad de eliminar elementos. Ahora, además de agregar alimentos, el usuario puede eliminarlos de la lista.
 
@@ -78,9 +78,29 @@ Este desafío ayuda a practicar el uso de arrays y objetos en JavaScript para ge
 
 ## Desafío DaySeven
 
+**Reto:** Desarrollar una calculadora en JavaScript que funcione en la consola y que implemente diversas operaciones matemáticas. Cada operación debe ser una función independiente. El objetivo es practicar la organización del código, la creación de funciones reutilizables y el uso de estructuras de control como `switch` y ciclos de repetición.
+
+La calculadora debe permitir al usuario seleccionar una operación, ingresar los números necesarios y recibir el resultado en la consola. El programa debe seguir ejecutándose hasta que el usuario decida salir.
+
+**Operaciones a implementar:**
+
+- Suma
+- Resta
+- Multiplicación
+- División
+- Exponenciación
+- Raíz Cuadrada
+- Módulo
+- Valor Absoluto
+
 ## Contribuciones
 
 Si tienes sugerencias o mejoras para este desafío, no dudes en abrir un *issue* o enviar un *pull request*. Aprecio cualquier aporte que pueda mejorar la experiencia para todos los participantes.
+
+
+## Autor
+
+**Eder Said Martinez Ramirez**
 
 #7DaysOfCode 🚀 #AluraLatam 🚀 #OracleOne
 
